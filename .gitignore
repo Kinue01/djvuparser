@@ -2,3 +2,6 @@
 pom.xml.versionsBackup
 /.vscode/
 .git-versioned-pom.xml
+.project
+.classpath
+.settings
